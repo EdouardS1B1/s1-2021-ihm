@@ -13,3 +13,6 @@ Pourquoi ces choix:
 Nous avons mis le menu en haut pour permettre une navigation très simple et facilement compréhensible. De plus, nous avons mis le nom de l'entreprise juste en dessous du menu pour que la personne naviguant sur le site puisse savoir facilement de quelle entreprise il s'agit. L'image permettra de rendre la page plus aéré pour ne pas avoir que du texte.  
 
 Concernant le site : -Leo Burnichon a fait la page d'acceuil, Edouard Stamboulian la page concernant le fonctionnemennt,Fabien Geraldes la page de l'organisation et Antoine Marchand la page sur les informations financières.
+
+
+Nous avons d'utiliser bootsrap car il permet de faire des blocs homogène et son utilisation est facile.
