@@ -16,3 +16,4 @@ Concernant le site : -Leo Burnichon a fait la page d'acceuil, Edouard Stamboulia
 
 
 Nous avons d'utiliser bootsrap car il permet de faire des blocs homogène et son utilisation est facile.
+Nous avons placé le lien du rapport d'economie en bas de la page d'accueil.
